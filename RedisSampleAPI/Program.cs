@@ -13,7 +13,7 @@ namespace RedisSampleAPI
     {
         public static void Main(string[] args)
         {
-            a = 5;
+            //a = 5;
             CreateHostBuilder(args).Build().Run();
         }
 
